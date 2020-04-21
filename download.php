@@ -1,0 +1,1 @@
+<a href="downloader.php?file=<?php echo $_GET['file'];?>">Download</a>
